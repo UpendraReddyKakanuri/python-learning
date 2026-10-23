@@ -13,3 +13,6 @@
 
 **Next**
 - Git Day 1: commit and push loop (start by committing this log)
+
+## 23 Oct 2026
+- Git Day1 : ran the full loop (status, add, commit, push) on my own : commit fdb49df
