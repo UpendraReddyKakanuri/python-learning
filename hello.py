@@ -7,3 +7,6 @@ print(f"Wheel Speed: {Wheel_Speed} km/h")
 
 Brake_Pressure = 6.5
 print(f"Brake Pressure: {Brake_Pressure} bar")
+
+ABS_Active = False
+print(f"ABS Active: {ABS_Active}")
