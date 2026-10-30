@@ -16,3 +16,4 @@
 - Git Day 1 : ran the full loop (status, add, commit, push) on my own : commit fdb49df
 - Git Day 2 : inspect and undo (git diff, git diff --stagged, git restore --stagged, git restore, git commit --amend)
 - Git Day 3 : branches (git branch, git switch -c, git switch, git log --all, git merge, git branch -d)
+- Git Day 4 : pull requests (git push -u origin <branch>, PR on GitHub, git pull, git fetch --prune) - PR #1
