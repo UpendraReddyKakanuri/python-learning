@@ -37,4 +37,21 @@ else:
 if wheel_speed is not None:
     print(f"wheel speed received: {wheel_speed} km/h")
 
-
+###################
+###  Results
+###################
+##   <class 'str'>
+##   <class 'float'>
+##   <class 'int'>
+##   <class 'bool'>
+##   <class 'int'>
+##   <class 'NoneType'>
+##   CAN ID 399 in decimal is 0x18F in hex
+##   27.5 V
+##   28.0
+##   voltage is 27.5 V
+##   False False False False
+##   True True True True
+##   No Wheel Speed
+##   wheel speed received: 0.0 km/h
+####################

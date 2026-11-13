@@ -75,3 +75,28 @@ else:
     print("Pressure received: 0.0 bar")
 if brake_pressure is None:
     print("No pressure signal for None")
+
+
+
+###################
+###  Results
+###################
+##   False
+##   True
+##   True
+##   True
+##   False
+##   False
+##   True
+##   False
+##   13
+##   14.0
+##   4
+##   CAN ID 399 in decimal is 0x18F in hex
+##   CAN ID 2015 in decimal is 0x7DF in hex
+##   Pressure received: 0.0 bar
+##   No pressure signal for None
+##   Pressure is received
+##   No pressure signal for None
+##   Pressure is received
+###################
